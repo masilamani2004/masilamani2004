@@ -1,0 +1,17 @@
+digraph{
+a->b
+b->c
+z->d
+d->e
+m->f
+w->s
+z->b
+n->m
+y->w
+
+
+
+
+
+
+}

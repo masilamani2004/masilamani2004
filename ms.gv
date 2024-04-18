@@ -1,0 +1,17 @@
+digraph G  
+{    
+A->B
+B->C
+C->D
+D->E
+E->D
+D->B
+}
+
+
+
+
+
+
+
+  
